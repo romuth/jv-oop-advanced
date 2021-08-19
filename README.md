@@ -4,7 +4,7 @@ __Solve the task using OOP principles__
 
 Task:
 
-There are some figures of the following types: square, rectangle, right triangle, circle, isosceles trapezoid.
+There are some figure of the following types: square, rectangle, right triangle, circle, isosceles trapezoid.
 
 All figures have 
 - **state** (all figures have `color`, but each figure type can also have one or several unique properties (`radius` for circle, `firstLeg` and `secondLeg` for right triangle, and so on).
